@@ -25,4 +25,4 @@ work and contracts delivery; I led the build.*
 
 **Stack:** TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · pgvector · Python · Playwright · Vitest · Docker
 
-Case studies: [a22techsolutions.com/work](https://a22techsolutions.com/work/) · LinkedIn: [LinkedIn URL] · Contact: contact@tualex.ca
+Case studies: [a22techsolutions.com/work](https://a22techsolutions.com/work/) · LinkedIn: [TuAlex](https://www.linkedin.com/in/tualex/) · Contact: contact@tualex.ca
